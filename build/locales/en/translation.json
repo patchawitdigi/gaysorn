@@ -1,0 +1,34 @@
+{
+   "GaysornHome":{
+    "Innovation": {
+        "title": "INNOVATION, INSPIRATION <br/>& CREATIVITY<br/> COME TO LIFE",
+        "content": "Welcome to Bangkok’s one and only<br/>Workstyles Office Community. Located in the<br/>heart of the iconic Ratchaprasong District,<br/>come WORK-LIVE-PLAY-GROW with us in<br/>an inspired working environment that sparks<br/>your potential to create and succeed<br/>in all that you do!"
+    },
+    "Ourstory": {
+        "title": "OUR STORY",
+        "content": "The Gaysorn Workstyles Office Community<br/>is made up of 3 different Office Builings<br/>that offer world-class office spaces to suit<br/>any business style, state-of-the-art amenities<br/>and a brilliant offering of the city’s best retail,<br/>food & beverage, entertainment and spiritual<br/>attractions.<br/>Come join our inspired community of<br/>likeminded people today and<br/>WORK-LIVE-PLAY-GROW with us!"
+    },
+    "OFFICECOMMUNITY" : {
+        "content-tower": "Thailand’s No. 1 address for premier offices in<br/>the heart of the city, the Gaysorn Tower is an<br/>award winning, eco-friendly and well-designed<br/>Grade A office tower that’s built to enhance<br/>and support your company’s success.",
+        "content-center": "At the centre of it all, the Gaysorn Centre<br/>is an icon and trend setting address that<br/>fosters design, creativity and inspiration.<br/>I t’s best known as the hub of fashion for<br/>retail brands and multinational companies<br/>in Bangkok.",
+        "content-amarin": "The heritage icon that stands tall amongst<br/>modernity, Gaysorn Amarin is the next<br/>chapter in the personification of rebirth<br/>and rejuvenation in the Ratchaprasong<br/>District. With its newly renovated office<br/>tower, join the Gaysorn Village today."
+
+    },
+    "LOCATION1" : {
+        "content": "Set in the iconic Ratchaprason District and a stone’s throw away from the BTS Siam<br/>and BTS Chitlom stations, the Gaysorn Village is easily accessible by public transportation<br/>and by car. Safe and convenient, explore all 3 buildings to experience theGaysorn Workstyles<br/>Office Community at its best today!"
+    } 
+   },
+
+   "GaysornTower":{
+       "Tower" : "Gaysorn tower is bangkok’s most prestigious office tower. Gaysorn tower,<br/>offers grade a office space with award Winning for best office development<br/>from asia property Awards 2018-2019 and is the perfect setting is perfect toEnjoy<br/> a com-munity of likeminded international and domestic Organizations for inspired<br/>working environments, collaborations and success stories in the gaysorn tower<br/>“Work, live, play, grow” way."
+   },
+
+   "GaysornCenter":{
+       "Center" : "The epicenter of fashion forward styles and trends have been located in this area<br/>for decades and it is not wonder why major players in the world of style,<br/>fashion and entertainment still flock to our iconic gaysorn centre offices.<br/>Known for the cool and contemporary vibes along with the premier location,<br/>The straight-forward office spaces make subtle statements that resonate<br/> across the city and beyond. Come set up where it all began and utilize the strategic<br/>Location as the finger on the pulse of bangkok’s latest trends."
+   },
+
+   "GaysornAmarin":{
+    "Amarin" : "Move up to amarin office tower, bangkok’s most iconic heritage office<br/>space in the city. Fully renovated, enjoy 22 storeys of spacious floorplans,<br/>endless cityscapes and a shared gaysorn village community.<br/>Easily Accessible with safety and convenience from bts chitlom and bts<br/>siam stations, untap the new wave of working style in the famous<br/>ratchaprasong district."
+   }
+
+}

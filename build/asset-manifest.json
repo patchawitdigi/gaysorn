@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05a851af.css",
+    "main.js": "/static/js/main.a9021126.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/LOCATION1.jpg": "/static/media/LOCATION1.e0459cf4f6b4284f1715.jpg",
+    "static/media/THUMBNAIL VDO-37.jpg": "/static/media/THUMBNAIL VDO-37.163caeb24f9593e62eff.jpg",
+    "static/media/LOCATION2.jpg": "/static/media/LOCATION2.c58847bae15f43251a2b.jpg",
+    "static/media/GothamBold.ttf": "/static/media/GothamBold.108854bb27dee2dce854.ttf",
+    "static/media/VILLAGE-LOGO.svg": "/static/media/VILLAGE-LOGO.6d8f2ddf2fe83265c7866a4b4e846502.svg",
+    "static/media/WORKSTYLES-LOGO.svg": "/static/media/WORKSTYLES-LOGO.177b413bdb10478ed8f6a65058cabef0.svg",
+    "static/media/BG.png": "/static/media/BG.78ac95e1c9201b549dfa.png",
+    "index.html": "/index.html",
+    "main.05a851af.css.map": "/static/css/main.05a851af.css.map",
+    "main.a9021126.js.map": "/static/js/main.a9021126.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a851af.css",
+    "static/js/main.a9021126.js"
+  ]
+}
