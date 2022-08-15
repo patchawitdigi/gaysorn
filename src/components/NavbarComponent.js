@@ -29,7 +29,7 @@ function NavbarComponent() {
     <div className="collapse navbar-collapse me-5" id="navbarResponsive">
         <Scrollspy className="navbar-nav ms-auto mt-4" items={ ['Enquiries-1'] } currentClassName="is-current">
         <li className="nav-item"><NavLink to="/tower"  className="nav-link"><span className="color-TankardGray fw-semibold">GAYSORN TOWER</span></NavLink></li>
-        <li className="nav-item"><NavLink to="/center" className="nav-link"><span className="color-TankardGray fw-semibold">GAYSORN CENTRE</span></NavLink></li>
+        <li className="nav-item"><NavLink to="/center" className="nav-link"><span className="color-TankardGray fw-semibold">GAYSORN CENTREe</span></NavLink></li>
         <li className="nav-item"><NavLink to="/amarin" className="nav-link"><span className="color-TankardGray fw-semibold">GAYSORN AMARIN</span></NavLink></li>
         <li >
           <a href={"#Enquiries-1"} className="btn-enquiries me-2">ENQUIRE NOW</a>
