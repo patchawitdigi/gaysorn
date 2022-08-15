@@ -1,0 +1,76 @@
+
+.BG-Image{
+  background-image: url("../../public/images/01-HOME/BG.png");
+  background-size: 1500px 450px;
+}
+.Color-TankardGray {
+  color: #8c734b;
+
+}
+.Color-Pablo{
+  color: #767467;
+}
+
+.Color-Grullo{
+  color: #a38f6f;
+}
+
+.btn-exploremore {
+  background-color: #9d8257;
+  font-weight: bold;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+} 
+
+
+.btn-outline {
+  border: 1px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.tankardgray {
+  border-color: #8c734b;
+  color: #8c734b;
+}
+
+.tankardgray :hover {
+  background-color: #777062;
+  color: white;
+}
+
+.Content-FloorPlans {
+  background: rgba(134, 116, 85, 0.7);
+
+}
+
+.jumbotron-amarin {
+  background-image: url('../../public/images/04-GAYSORN AMARIN/THUMBNAIL VDO-37.jpg');
+  background-size: cover;
+  height: 80vh; /* Add this */
+}
+.banner-carousel {
+  background-size: cover;
+  height: 80vh; /* Add this */
+}
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%239e8146' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+ 
+ .carousel-control-next-icon {
+   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%239e8146' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+ }
+
+
+ .text-floorplans {
+  font-size: 12px;
+ }

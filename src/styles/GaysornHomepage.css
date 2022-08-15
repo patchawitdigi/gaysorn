@@ -1,0 +1,54 @@
+.Content-OurStory {
+    background: rgba(134, 116, 85, 0.7);
+}
+
+
+.disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.btn-link-google {
+    background-color: #8c734b;
+    font-weight: bold;
+    border: none;
+    color: white;
+    padding: 13px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.jumbotron {
+    background-image: url('../../public/images/01-HOME/LOCATION1.jpg');
+    background-size: cover;
+    height: 100vh; /* Add this */
+}
+  
+.bg-image {
+    background-image: url('../../public/images/01-HOME/LOCATION2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.bg-location2 {
+    background-color: #808082;
+}
+
+.location2-text {
+    font-size: 10px;
+    font-weight:500
+}
+
+.Content-Location p {
+    font-size: 18px;
+}
+
+.Innovation-content {
+    font-size: 19px;
+}
+
+.Ourstory-content {
+    font-size: 19px;
+}

@@ -1,0 +1,46 @@
+.Icon-TankardGray {
+    color: #9e8146;
+    font-size: 24px;
+}
+
+input[type=text], input[type=email],input[type=tel],input[type=number],input[type=checkbox]  {
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #bcaa98;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+
+
+/* input[type=text], input[type=email],input[type=tel],input[type=number],input[type=checkbox] :focus {
+    border: 1px solid #8c734b;
+} */
+
+
+
+input::placeholder {
+    text-align: right;
+}
+
+.title-enquiries{
+    font-weight: 500;
+    color: #a38f6f;
+}
+.sub-title {
+    color: #817b6e;
+}
+
+.btn-explore{
+    background-color: #8c734b;
+    font-weight: bold;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
