@@ -172,7 +172,7 @@ function EnquiriesComponent() {
        aria-label="Default select example">
         <option value="" disabled>Choose Location</option>
         <option className="GAYSORN TOWER" value="GAYSORN TOWER">GAYSORN TOWER</option>
-        <option className="GAYSORN CENTER" value="GAYSORN CENTER">GAYSORN CENTER</option>
+        <option className="GAYSORN CENTER" value="GAYSORN CENTER">GAYSORN CENTRE</option>
         <option className="GAYSORN AMARIN" value="GAYSORN AMARIN">GAYSORN AMARIN</option>
        </select>
       </div>
