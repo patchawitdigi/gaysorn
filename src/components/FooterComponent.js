@@ -9,7 +9,7 @@ function FooterComponent() {
     </div>
 
     <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
-      <li className="ms-3"><span className="bi bi-facebook text-white" style={{fontSize: 30}} href=" https://www.facebook.com/Gaysorn.WorkStyles"></span></li>
+      <li className="ms-3"><a href=" https://www.facebook.com/Gaysorn.WorkStyles"><span className="bi bi-facebook text-white" style={{fontSize: 30}}></span></a></li>
     </ul>
     </footer>
     </>
