@@ -41,7 +41,7 @@ function NavbarComponent() {
         }
               </Scrollspy>
 
-        <img className='ms-5' src={VILLAGE} alt=".." width={50} />
+        <img className='ms-5' src={VILLAGE} alt=".." width={50} href="https://www.gaysornvillage.com/th/"/>
     </div>
     </div>
 </nav>
