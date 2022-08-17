@@ -85,7 +85,7 @@ function EnquiriesComponent() {
             <i className="bi bi-envelope-fill Icon-TankardGray"></i><span className="ms-3">workstyles@gaysorngroup.com</span>
           </li>
           <li className="list-group-item bg-transparent border-0 p-0 mb-2">
-           <i className="bi bi-facebook Icon-TankardGray"></i><a href=" https://www.facebook.com/Gaysorn.WorkStyles"><span className="ms-3">www.facebook.com/Gaysorn.WorkStyles</span></a>
+          <a href=" https://www.facebook.com/Gaysorn.WorkStyles"><i className="bi bi-facebook Icon-TankardGray"></i></a><span className="ms-3">www.facebook.com/Gaysorn.WorkStyles</span>
           </li>
         </ul>
         </div>
