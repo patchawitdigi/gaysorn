@@ -19,7 +19,7 @@ function FooterComponent() {
     </div>
     <div className="col-md-3 d-flex align-items-left gap-2">
       <div>
-        <div><a className="text-white" target={"_blank"} href={`https://www.gaysornvillage.com/${i18n.language === 'th' ? 'th' : 'en'}/legal/privacy_notice_partner.php`}>Terms and Conditions</a></div>
+        <div><a className="text-white" target={"_blank"} href={`https://www.gaysornproperty.com/terms`}>Terms and Conditions</a></div>
         <div><a className="text-white" target={"_blank"} href={`https://www.gaysornvillage.com/${i18n.language === 'th' ? 'th' : 'en'}/legal/cookie_policy.php`}>Cookies Policy</a></div>
         <div><a className="text-white" target={"_blank"} href={`https://www.gaysornvillage.com/${i18n.language === 'th' ? 'th' : 'en'}/legal/cctv_policy.php`}>CCTV Policy</a></div>
       </div>
