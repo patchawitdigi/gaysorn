@@ -1,6 +1,8 @@
+import { useTranslation } from 'react-i18next';
 import '../App.css'
 
 function FooterComponent() {
+  const { i18n } = useTranslation();
     return (
     <>
     <footer className="d-flex flex-wrap justify-content-around align-items-center px-5 py-3" style={{backgroundColor: "#8c734b"}}>
@@ -8,18 +10,18 @@ function FooterComponent() {
       <span className="text-white">2020 Gaysorn Group,ALL RIGHTS RESERVED.</span>
     </div>
 
-    <div className="col-md-3 d-flex 	 gap-2">
+    <div className="col-md-3 d-flex align-items-left gap-2">
       <div>
-        <div><a className="text-white" target={"_blank"} href="https://www.gaysornvillage.com/en/legal/privacy_policy.php">Privacy Policy</a></div>
-        <div><a className="text-white" target={"_blank"} href="https://www.gaysornvillage.com/en/legal/privacy_notice_customer.php">Privacy Notice for Customers</a></div>
-        <div><a className="text-white" target={"_blank"} href="https://www.gaysornvillage.com/en/legal/privacy_notice_partner.php">Privacy Notice for Partners</a></div>
+        <div><a className="text-white" target={"_blank"} href={`https://www.gaysornvillage.com/${i18n.language === 'th' ? 'th' : 'en'}/legal/privacy_policy.php`}>Privacy Policy</a></div>
+        <div><a className="text-white" target={"_blank"} href={`https://www.gaysornvillage.com/${i18n.language === 'th' ? 'th' : 'en'}/legal/privacy_notice_customer.php`}>Privacy Notice for Customers</a></div>
+        <div><a className="text-white" target={"_blank"} href={`https://www.gaysornvillage.com/${i18n.language === 'th' ? 'th' : 'en'}/legal/privacy_notice_partner.php`}>Privacy Notice for Partners</a></div>
       </div>
     </div>
     <div className="col-md-3 d-flex align-items-left gap-2">
       <div>
-        <div><a className="text-white" target={"_blank"} href="https://www.gaysornvillage.com/en/legal/privacy_notice_partner.php">Terms and Conditions</a></div>
-        <div><a className="text-white" target={"_blank"} href="https://www.gaysornvillage.com/en/legal/cookie_policy.php">Cookies Policy</a></div>
-        <div><a className="text-white" target={"_blank"} href="https://www.gaysornvillage.com/en/legal/cctv_policy.php">CCTV Policy</a></div>
+        <div><a className="text-white" target={"_blank"} href={`https://www.gaysornvillage.com/${i18n.language === 'th' ? 'th' : 'en'}/legal/privacy_notice_partner.php`}>Terms and Conditions</a></div>
+        <div><a className="text-white" target={"_blank"} href={`https://www.gaysornvillage.com/${i18n.language === 'th' ? 'th' : 'en'}/legal/cookie_policy.php`}>Cookies Policy</a></div>
+        <div><a className="text-white" target={"_blank"} href={`https://www.gaysornvillage.com/${i18n.language === 'th' ? 'th' : 'en'}/legal/cctv_policy.php`}>CCTV Policy</a></div>
       </div>
     </div>
 

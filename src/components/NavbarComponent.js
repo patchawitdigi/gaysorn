@@ -35,9 +35,9 @@ function NavbarComponent() {
           <a href={"#Enquiries-1"} className="btn-enquiries me-2">ENQUIRE NOW</a>
         </li>
         { (i18n.language === 'en') ?
-        <li ><div className="nav-link"><span className="badge-lan  rounded-0 " onClick={()=>handleClick('en')}>EN</span> / <span className="color-TankardGray" onClick={()=>handleClick('th')}>TH</span></div></li>
+        <li ><div className="nav-link"><span className="badge-lan rounded-0 cursor-pointer" onClick={()=>handleClick('en')}>EN</span> / <span className="color-TankardGray cursor-pointer" onClick={()=>handleClick('th')}>TH</span></div></li>
         :
-        <li ><div className="nav-link"><span onClick={()=>handleClick('en')} className="color-TankardGray">EN</span> / <span className="badge-lan rounded-0" onClick={()=>handleClick('th')}>TH</span></div></li>
+        <li ><div className="nav-link"><span onClick={()=>handleClick('en')} className="color-TankardGray cursor-pointer">EN</span> / <span className="badge-lan rounded-0 cursor-pointer" onClick={()=>handleClick('th')}>TH</span></div></li>
         }
               </Scrollspy>
 
